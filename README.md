@@ -1,2 +1,3 @@
-# --IPC1-Practica1_202112092.
-Primer laboratorio de IPC sección "A"
+Brandon Eduardo Pablo Garcia
+202112092
+Laboratorio de IPC1 - A
